@@ -1,2 +1,2 @@
 # hotelomni.github.io
-Hotel Website
+Hotel Website Demo
